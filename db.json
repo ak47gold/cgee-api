@@ -1,0 +1,31 @@
+// 20211217152043
+// https://raw.githubusercontent.com/ak47gold/api/main/db.json
+
+{
+  "products": [
+    {
+      "id": 0,
+      "name": "AK 15",
+      "details": "The 7.62 mm AK-15 rifle, based on the AK-12 model, is a next-generation personal weapon for the special forces, providing improved combat performance, versatility, accuracy, and precision.",
+      "caliber": "7.62x39",
+      "mass": "3.5",
+      "magazine": "30",
+      "price": "$9999.99",
+      "image": "https://mpetry.com.br/fake-api/ak15.png",
+      "video": "https://mpetry.com.br/fake-api/ak15.mp4",
+      "modelo": "/ak15.glb"
+    },
+    {
+      "id": 1,
+      "name": "AK 19",
+      "details": "AK-19 is chambered for 5.56x45 round, one of the most popular rifle rounds in the world, which is currently used by NATO countries. Consequently, this new rifle was developed specifically for the export market.\n\nAK-19 is based on AK-12, which was accepted into service by the Russian Armed Forces in 2018. AK-19 has a Picatinny rail, a new collapsible folding stock, improved aperture sight, and a quick-detachable suppressor.",
+      "caliber": "5.56x45",
+      "mass": "3.5",
+      "magazine": "30",
+      "price": "$9999.99",
+      "image": "https://mpetry.com.br/fake-api/ak19.png",
+      "video": "https://mpetry.com.br/fake-api/ak19.mp4",
+      "modelo": "/ak19.glb"
+    }
+  ]
+}
