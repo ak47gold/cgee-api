@@ -33,7 +33,29 @@
       "descricao": "Programa Nacional de Eficiência em Sustentabilidade Urbana (PNESU) visa fornecer subsídios baseados em evidências para a construção de uma agenda de desenvolvimento sustentável que procure abranger os mais recentes desafios urbanos, como as questões ambientais, climáticas e a transformação digital nos territórios.",
       "imagem": "https://mpetry.com.br/fake-cgeeapi/p.svg",
       "video": "https://mpetry.com.br/fake-cgeeapi/ak15.mp4",
-      "modelo": "/cgee.glb"
+      "modelo": "/cgee.glb",
+      "items": [
+        {
+          "id": 0,
+          "nome": "Diretizes"
+        },
+        {
+          "id": 1,
+          "nome": "Beneficiados"
+        },
+        {
+          "id": 2,
+          "nome": "Eixos estruturantes"
+        },
+        {
+          "id": 3,
+          "nome": "Visão sistemica"
+        },
+        {
+          "id": 4,
+          "nome": "Parceiros"
+        }
+      ]
     },
     {
       "id": 1,
@@ -42,7 +64,29 @@
       "descricao": "A Rede de Centros de Eficiência em Sustentabilidade Urbana, a RECESU, visa apoiar a atuação dos Centros de Eficiência em Sustentabilidade Urbana.",
       "imagem": "https://mpetry.com.br/fake-cgeeapi/r.svg",
       "video": "https://mpetry.com.br/fake-api/ak19.mp4",
-      "modelo": "/ak19.glb"
+      "modelo": "/ak19.glb",
+      "items": [
+        {
+          "id": 0,
+          "nome": "Diretizes"
+        },
+        {
+          "id": 1,
+          "nome": "Beneficiados"
+        },
+        {
+          "id": 2,
+          "nome": "Eixos estruturantes"
+        },
+        {
+          "id": 3,
+          "nome": "Visão sistemica"
+        },
+        {
+          "id": 4,
+          "nome": "Parceiros"
+        }
+      ]
     },
     {
       "id": 2,
@@ -51,7 +95,21 @@
       "descricao": "Os Centro de Eficiência em Sustentabilidade Urbana – CESU objetivam promover a avaliação, validação e simulação de soluções tecnológicas climáticas que darão suporte à redução da emissão de carbono e ao fomento da transição para economia verde e 4.0.",
       "imagem": "https://mpetry.com.br/fake-cgeeapi/u.svg",
       "video": "https://mpetry.com.br/fake-api/ak19.mp4",
-      "modelo": "/ak19.glb"
+      "modelo": "/ak19.glb",
+      "items": [
+        {
+          "id": 0,
+          "nome": "Guias condutores"
+        },
+        {
+          "id": 1,
+          "nome": "Objetivos estratégicos"
+        },
+        {
+          "id": 2,
+          "nome": "Percurso"
+        }
+      ]
     },
     {
       "id": 3,
@@ -60,7 +118,29 @@
       "descricao": "A cidade inteligente e sustentável é um ecossistema de inovação urbana impulsionado pelo uso de tecnologias da informação e comunicação, as TICs, coordenadas de forma equilibrada junto à infraestrutura natural e construída da cidade para aumentar a eficiência urbana, garantir o equilíbrio socioecológico, enfrentar os desafios da sustentabilidade, e, consequentemente, oferecer melhor qualidade de vida aos cidadãos sem perder de vista a articulação entre o desenvolvimento econômico, social, sustentável e urbano inovador.",
       "imagem": "https://mpetry.com.br/fake-cgeeapi/r.svg",
       "video": "https://mpetry.com.br/fake-api/ak19.mp4",
-      "modelo": "/ak19.glb"
+      "modelo": "/ak19.glb",
+      "items": [
+        {
+          "id": 0,
+          "nome": "Diretizes"
+        },
+        {
+          "id": 1,
+          "nome": "Beneficiados"
+        },
+        {
+          "id": 2,
+          "nome": "Eixos estruturantes"
+        },
+        {
+          "id": 3,
+          "nome": "Visão sistemica"
+        },
+        {
+          "id": 4,
+          "nome": "Parceiros"
+        }
+      ]
     }
   ]
 }
