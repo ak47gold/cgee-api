@@ -68,10 +68,14 @@
       "items": [
         {
           "id": 0,
-          "nome": "Objetivos estratégicos"
+          "nome": "Guias condutores"
         },
         {
           "id": 1,
+          "nome": "Objetivos estratégicos"
+        },
+        {
+          "id": 2,
           "nome": "Percurso"
         }
       ]
