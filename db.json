@@ -68,23 +68,11 @@
       "items": [
         {
           "id": 0,
-          "nome": "Diretizes"
+          "nome": "Objetivos estratégicos"
         },
         {
           "id": 1,
-          "nome": "Beneficiados"
-        },
-        {
-          "id": 2,
-          "nome": "Eixos estruturantes"
-        },
-        {
-          "id": 3,
-          "nome": "Visão sistemica"
-        },
-        {
-          "id": 4,
-          "nome": "Parceiros"
+          "nome": "Percurso"
         }
       ]
     },
@@ -107,7 +95,19 @@
         },
         {
           "id": 2,
-          "nome": "Percurso"
+          "nome": "Tipos de centros"
+        },
+        {
+          "id": 3,
+          "nome": "Serviços"
+        },
+        {
+          "id": 4,
+          "nome": "Percurso dos centros"
+        },
+        {
+          "id": 5,
+          "nome": "Centros em operação"
         }
       ]
     },
@@ -122,23 +122,35 @@
       "items": [
         {
           "id": 0,
-          "nome": "Diretizes"
+          "nome": "As dimensões"
         },
         {
           "id": 1,
-          "nome": "Beneficiados"
+          "nome": "Livro conceito"
         },
         {
           "id": 2,
-          "nome": "Eixos estruturantes"
+          "nome": "Livro tecnologia"
         },
         {
           "id": 3,
-          "nome": "Visão sistemica"
+          "nome": "Livro de práticas mundiais"
         },
         {
           "id": 4,
-          "nome": "Parceiros"
+          "nome": "Mapa com as práticas mundiais"
+        },
+        {
+          "id": 5,
+          "nome": "Livro sobre a legislação brasileira"
+        },
+        {
+          "id": 6,
+          "nome": "Mapa da legislação brasileira"
+        },
+        {
+          "id": 7,
+          "nome": "Contatos"
         }
       ]
     }
