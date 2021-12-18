@@ -33,7 +33,7 @@
       "descricao": "Programa Nacional de Eficiência em Sustentabilidade Urbana (PNESU) visa fornecer subsídios baseados em evidências para a construção de uma agenda de desenvolvimento sustentável que procure abranger os mais recentes desafios urbanos, como as questões ambientais, climáticas e a transformação digital nos territórios.",
       "imagem": "https://mpetry.com.br/fake-cgeeapi/p.svg",
       "video": "https://mpetry.com.br/fake-cgeeapi/ak15.mp4",
-      "modelo": "/cgee.glb",
+      "modelo": "/p.glb",
       "items": [
         {
           "id": 0,
@@ -64,7 +64,7 @@
       "descricao": "A Rede de Centros de Eficiência em Sustentabilidade Urbana, a RECESU, visa apoiar a atuação dos Centros de Eficiência em Sustentabilidade Urbana.",
       "imagem": "https://mpetry.com.br/fake-cgeeapi/r.svg",
       "video": "https://mpetry.com.br/fake-api/ak19.mp4",
-      "modelo": "/layer.glb",
+      "modelo": "/cgee.glb",
       "items": [
         {
           "id": 0,
@@ -87,7 +87,7 @@
       "descricao": "Os Centro de Eficiência em Sustentabilidade Urbana – CESU objetivam promover a avaliação, validação e simulação de soluções tecnológicas climáticas que darão suporte à redução da emissão de carbono e ao fomento da transição para economia verde e 4.0.",
       "imagem": "https://mpetry.com.br/fake-cgeeapi/u.svg",
       "video": "https://mpetry.com.br/fake-api/ak19.mp4",
-      "modelo": "/ak19.glb",
+      "modelo": "/layer.glb",
       "items": [
         {
           "id": 0,
