@@ -34,11 +34,11 @@
       "imagem": "https://mpetry.com.br/fake-cgeeapi/p.svg",
       "video": "https://mpetry.com.br/fake-cgeeapi/ak15.mp4",
       "modelo": "/p.glb",
+      "modal": "<Diretrizes />",
       "items": [
         {
           "id": 0,
-          "nome": "Diretizes",
-          "modal": "<Diretrizes />"
+          "nome": "Diretizes"
         },
         {
           "id": 1,
